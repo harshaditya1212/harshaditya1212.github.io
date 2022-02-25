@@ -1,0 +1,26 @@
+<style>
+    nav {
+        background-color: lightblue;
+    }
+    li {
+        display: inline;
+        font-size: 60px;
+    }
+
+    li.a {
+        position: absolute;
+        left: 600px;
+    }
+    aside.a{
+    float: left;
+    width: 50%;
+    height: 400px;
+    background-color: purple;
+    }
+    aside.b{
+    float: left;
+    width: 50%;
+    height: 400px;
+    background-color:pink;
+    }
+</style>
