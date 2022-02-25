@@ -1,14 +1,15 @@
-nav {
+
+    nav {
         background-color: lightblue;
     }
     li {
         display: inline;
-        font-size: 15px;
+        font-size: 60px;
     }
 
     li.a {
         position: absolute;
-        left: 200px;
+        left: 600px;
     }
     aside.a{
     float: left;
@@ -22,5 +23,6 @@ nav {
     height: 400px;
     background-color:pink;
     }
+
 
 
